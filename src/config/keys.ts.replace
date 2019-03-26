@@ -1,0 +1,6 @@
+export default {
+    mongoURI: 'mongodb+srv://yourname:yourpass@yourclusteraddress'
+}
+
+// Delete the .replace from this files extension
+// Get Free cloud mongodb service from mongodb.com
